@@ -1,6 +1,6 @@
 #==============================================
-#Nama   : Muhammad Rafly
-#NIM    : J0403251002
+#Nama   : Fahrizal Azis
+#NIM    : J0403251151
 #Kelas  : A
 #==============================================
 
@@ -18,4 +18,5 @@ def insertionSort(data):
 
 data = [54,26,93,17,77,31,44,55,20]
 insertionSort(data)
+
 print(data)
