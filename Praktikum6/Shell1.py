@@ -1,6 +1,6 @@
 #==============================================
-#Nama   : Muhammad Rafly
-#NIM    : J0403251002
+#Nama   : Fahrizal Azis
+#NIM    : J0403251151
 #Kelas  : A
 #==============================================
 
@@ -27,4 +27,5 @@ def gapInsertionSort(data,start,gap):
 
 data = [54,26,93,17,77,31,44,55,20]
 shellSort(data)
+
 print(data)
