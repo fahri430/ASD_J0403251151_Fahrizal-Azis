@@ -1,6 +1,6 @@
 #==============================================
-#Nama   : Muhammad Rafly
-#NIM    : J0403251002
+#Nama   : Fahrizal Azis
+#NIM    : J0403251151
 #Kelas  : A
 #==============================================
 
@@ -39,3 +39,4 @@ print(data) #Output [98, 89, 76, 68, 57, 43, 33, 22, 12, 9]
 #3.kandidat urutan ke-2 dari list dengan nilai 76
 #4.kandidat urutan ke-9 dari list dengan nilai 68
 #5.kandidat urutan ke-6 dari list dengan nilai 57
+
